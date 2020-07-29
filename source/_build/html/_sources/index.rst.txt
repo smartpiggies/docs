@@ -9,6 +9,10 @@ Welcome to SmartPiggies's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+
+   contract.rst
+   
 
 
 
@@ -18,3 +22,11 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+Testing stuff
+==================
+
+teststuff
+morestuffsdfadsf
